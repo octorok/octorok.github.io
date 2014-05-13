@@ -2,4 +2,4 @@ name: A Chris Smith on Game Development
 markdown: redcarpet
 pygments: true
 
-exclude: [ README.md, LICENSE.md ]
+exclude: []
